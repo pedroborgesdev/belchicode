@@ -1,9 +1,5 @@
 # 🚀 BelchiCode  
 
-![GitHub stars](https://img.shields.io/github/stars/pedroborgesdev/belchicode?style=socia) <!-- Shows the number of stars -->
-![GitHub issues](https://img.shields.io/github/issues/pedroborgesdev/belchicode) <!-- Shows the number of open issues -->
-![GitHub license](https://img.shields.io/github/license/pedroborgesdev/belchicode) <!-- Shows the project license -->
-
 **BelchiCode** is a library that sends verification codes via Telegram, allowing you to verify whether the number entered by the user is valid. It was created to verify phone numbers at no cost, as other verification methods using SMTP or SMS have service or sending fees.
 
 ---
